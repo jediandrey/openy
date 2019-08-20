@@ -18,8 +18,3 @@ stage_password: Helpdesk01
 # Environment: stage or prod
 environment: stage
 
-url_login: https://account.ymcamn.org/PersonifyEBusiness/Default.aspx?TabID=337
-url_account: https://account.ymcamn.org/PersonifyEbusiness/MyY/tabid/61/Default.aspx
-url_sign_out: https://account.ymcamn.org/PersonifyEbusiness/MyY/tabid/61/ctl/Logoff/Default.aspx
-url_cart: https://account.ymcamn.org/PersonifyEbusiness/YMCA/ShoppingCart.aspx
-
