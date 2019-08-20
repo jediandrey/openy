@@ -1,0 +1,25 @@
+# SSO data.
+wsdl: https://account.ymcamn.org/SSO/webservice/service.asmx?wsdl
+vendor_id: 8
+vendor_username: ClockWork
+vendor_password: FE37C379FAD80A38E231D668DA572A24
+vendor_block: 55AADFF5C5741E09FE39D7E319B1A0DA
+
+# Prod endpoint.
+prod_endpoint: 'https://account.ymcamn.org/PersonifyDataServices/PersonifyData.svc/'
+prod_username: ALEX.SCHEDROV
+prod_password: Helpdesk01
+
+# Stage endpoint.
+stage_endpoint: 'https://ygtctrain3ebiz.personifycloud.com/PersonifyDataServices/PersonifyData.svc/'
+stage_username: ALEX.SCHEDROV
+stage_password: Helpdesk01
+
+# Environment: stage or prod
+environment: stage
+
+url_login: https://account.ymcamn.org/PersonifyEBusiness/Default.aspx?TabID=337
+url_account: https://account.ymcamn.org/PersonifyEbusiness/MyY/tabid/61/Default.aspx
+url_sign_out: https://account.ymcamn.org/PersonifyEbusiness/MyY/tabid/61/ctl/Logoff/Default.aspx
+url_cart: https://account.ymcamn.org/PersonifyEbusiness/YMCA/ShoppingCart.aspx
+
